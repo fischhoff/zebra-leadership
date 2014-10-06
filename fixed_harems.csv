@@ -1,0 +1,155 @@
+Sighting_Number,Date,Harem_stallion,Harem_members,Age_class,Age_lumped,Sex,Reproductive_status,Harem_size,Location_of_drinking,Activity_after_drinking
+01_560_1,2-Jul-06,01_560,01_560,Adult,Adult,M,Stallion,4,Ol Pejeta Dam,G
+01_560_1,2-Jul-06,01_560,01_049,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_560_1,2-Jul-06,01_560,01_067,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_560_1,2-Jul-06,01_560,04_115,2-3yo,Juvenile,F,Yearling,4,Ol Pejeta Dam,G
+01_008_1,3-Jul-06,01_008,01_008,Adult,Adult,M,Stallion,6,Ol Pejeta Dam,G
+01_008_1,3-Jul-06,01_008,01_011,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,G
+01_008_1,3-Jul-06,01_008,01_323,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_008_1,3-Jul-06,01_008,05_037,6-12,Juvenile,M,Foal,6,Ol Pejeta Dam,G
+01_008_1,3-Jul-06,01_008,01_006,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_008_1,3-Jul-06,01_008,05_331,3-6,Juvenile,F,Foal,6,Ol Pejeta Dam,G
+01_347_1,4-Jul-06,01_347,01_347,Adult,Adult,M,Stallion,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,01_374,Adult,Adult,F,Lactating,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,06_301,0-3,Juvenile,F,Foal,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,03_058,Adult,Adult,F,Non-lactating,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,01_507,Adult,Adult,F,Non-lactating,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,01_140,Adult,Adult,F,Non-lactating,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,02_1140,Adult,Adult,F,Lactating,8,Zebra Plain trough,G
+01_347_1,4-Jul-06,01_347,05_124,3-6,Juvenile,F,Foal,8,Zebra Plain trough,G
+01_596_1,5-Jul-06,01_596,01_596,Adult,Adult,M,Stallion,5,Ol Pejeta Dam,G
+01_596_1,5-Jul-06,01_596,02_1009,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_596_1,5-Jul-06,01_596,01_516,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_596_1,5-Jul-06,01_596,01_665,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_596_1,5-Jul-06,01_596,01_758,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_053_1,7-Jul-06,01_053,01_053,Adult,Adult,M,Stallion,4,Zebra Plain trough,G
+01_053_1,7-Jul-06,01_053,01_400,Adult,Adult,F,Non-lactating,4,Zebra Plain trough,G
+01_053_1,7-Jul-06,01_053,01_721,Adult,Adult,F,Lactating,4,Zebra Plain trough,G
+01_053_1,7-Jul-06,01_053,06_400,0-3,Juvenile,M,Foal,4,Zebra Plain trough,G
+01_356_1,8-Jul-06,01_356,01_356,Adult,Adult,M,Stallion,5,Morani trough,G
+01_356_1,8-Jul-06,01_356,01_360,Adult,Adult,F,Non-lactating,5,Morani trough,G
+01_356_1,8-Jul-06,01_356,01_365,Adult,Adult,F,Lactating,5,Morani trough,G
+01_356_1,8-Jul-06,01_356,05_127,6-12,Juvenile,M,Foal,5,Morani trough,G
+01_356_1,8-Jul-06,01_356,01_364,Adult,Adult,F,Non-lactating,5,Morani trough,G
+01_053_2,9-Jul-06,01_053,01_053,Adult,Adult,M,Stallion,4,Morani trough,E
+01_053_2,9-Jul-06,01_053,01_400,Adult,Adult,F,Non-lactating,4,Morani trough,E
+01_053_2,9-Jul-06,01_053,01_721,Adult,Adult,F,Lactating,4,Morani trough,E
+01_053_2,9-Jul-06,01_053,06_400,0-3,Juvenile,M,Foal,4,Morani trough,E
+01_313_1,10-Jul-06,01_313,01_313,Adult,Adult,M,Stallion,4,Morani trough,G
+01_313_1,10-Jul-06,01_313,01_314,Adult,Adult,F,Lactating,4,Morani trough,G
+01_313_1,10-Jul-06,01_313,05_327,3-6,Juvenile,M,Foal,4,Morani trough,G
+01_313_1,10-Jul-06,01_313,04_155,Adult,Adult,F,Non-lactating,4,Morani trough,G
+01_008_2,10-Jul-06,01_008,01_008,Adult,Adult,M,Stallion,6,Ol Pejeta Dam,G
+01_008_2,10-Jul-06,01_008,01_011,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,G
+01_008_2,10-Jul-06,01_008,01_323,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_008_2,10-Jul-06,01_008,05_037,6-12,Juvenile,M,Foal,6,Ol Pejeta Dam,G
+01_008_2,10-Jul-06,01_008,01_006,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_008_2,10-Jul-06,01_008,05_331,3-6,Juvenile,F,Foal,6,Ol Pejeta Dam,G
+01_590_1,11-Jul-06,01_590,01_590,Adult,Adult,M,Stallion,6,Morani trough,G
+01_590_1,11-Jul-06,01_590,01_202,Adult,Adult,F,Non-lactating,6,Morani trough,G
+01_590_1,11-Jul-06,01_590,01_651,Adult,Adult,F,Non-lactating,6,Morani trough,G
+01_590_1,11-Jul-06,01_590,01_752,Adult,Adult,F,Non-lactating,6,Morani trough,G
+01_590_1,11-Jul-06,01_590,01_700,Adult,Adult,F,Non-lactating,6,Morani trough,G
+01_590_1,11-Jul-06,01_590,01_373,Adult,Adult,F,Non-lactating,6,Morani trough,G
+01_843_1,16-Jul-06,01_843,01_843,Adult,Adult,M,Stallion,3,Ol Pejeta Dam,S
+01_843_1,16-Jul-06,01_843,02_084,Adult,Adult,F,Non-lactating,3,Ol Pejeta Dam,S
+01_843_1,16-Jul-06,01_843,02_180,Adult,Adult,F,Non-lactating,3,Ol Pejeta Dam,S
+01_008_3,17-Jul-06,01_008,01_008,Adult,Adult,M,Stallion,6,Zebra Plain trough,G
+01_008_3,17-Jul-06,01_008,01_011,Adult,Adult,F,Non-lactating,6,Zebra Plain trough,G
+01_008_3,17-Jul-06,01_008,01_323,Adult,Adult,F,Lactating,6,Zebra Plain trough,G
+01_008_3,17-Jul-06,01_008,05_037,6-12,Juvenile,M,Foal,6,Zebra Plain trough,G
+01_008_3,17-Jul-06,01_008,01_006,Adult,Adult,F,Lactating,6,Zebra Plain trough,G
+01_008_3,17-Jul-06,01_008,05_331,3-6,Juvenile,F,Foal,6,Zebra Plain trough,G
+01_356_2,19-Jul-06,01_356,01_356,Adult,Adult,M,Stallion,6,Ol Pejeta Dam,G
+01_356_2,19-Jul-06,01_356,01_360,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_356_2,19-Jul-06,01_356,06_361,0-3,Juvenile,F,Foal,6,Ol Pejeta Dam,G
+01_356_2,19-Jul-06,01_356,01_365,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_356_2,19-Jul-06,01_356,05_127,6-12,Juvenile,M,Foal,6,Ol Pejeta Dam,G
+01_356_2,19-Jul-06,01_356,01_364,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,G
+01_596_2,20-Jul-06,01_596,01_596,Adult,Adult,M,Stallion,5,Ol Pejeta Dam,G
+01_596_2,20-Jul-06,01_596,01_758,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_596_2,20-Jul-06,01_596,02_1009,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_596_2,20-Jul-06,01_596,01_516,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_596_2,20-Jul-06,01_596,01_665,Adult,Adult,F,Non-lactating,5,Ol Pejeta Dam,G
+01_356_3,21-Jul-06,01_356,01_356,Adult,Adult,M,Stallion,6,Serat trough,G
+01_356_3,21-Jul-06,01_356,01_360,Adult,Adult,F,Lactating,6,Serat trough,G
+01_356_3,21-Jul-06,01_356,06_361,0-3,Juvenile,F,Foal,6,Serat trough,G
+01_356_3,21-Jul-06,01_356,01_365,Adult,Adult,F,Lactating,6,Serat trough,G
+01_356_3,21-Jul-06,01_356,05_127,6-12,Juvenile,M,Foal,6,Serat trough,G
+01_356_3,21-Jul-06,01_356,01_364,Adult,Adult,F,Non-lactating,6,Serat trough,G
+01_590_2,22-Jul-06,01_590,01_590,Adult,Adult,M,Stallion,6,Ol Pejeta Dam,S
+01_590_2,22-Jul-06,01_590,01_202,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,S
+01_590_2,22-Jul-06,01_590,01_651,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,S
+01_590_2,22-Jul-06,01_590,01_752,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,S
+01_590_2,22-Jul-06,01_590,01_700,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,S
+01_590_2,22-Jul-06,01_590,01_373,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,S
+01_356_4,25-Jul-06,01_356,01_356,Adult,Adult,M,Stallion,6,Ol Pejeta Dam,G
+01_356_4,25-Jul-06,01_356,01_360,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_356_4,25-Jul-06,01_356,06_361,0-3,Juvenile,F,Foal,6,Ol Pejeta Dam,G
+01_356_4,25-Jul-06,01_356,01_365,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_356_4,25-Jul-06,01_356,05_127,6-12,Juvenile,M,Foal,6,Ol Pejeta Dam,G
+01_356_4,25-Jul-06,01_356,01_364,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,G
+01_843_2,26-Jul-06,01_843,01_843,Adult,Adult,M,Stallion,3,Ol Pejeta Dam,G
+01_843_2,26-Jul-06,01_843,02_084,Adult,Adult,F,Non-lactating,3,Ol Pejeta Dam,G
+01_843_2,26-Jul-06,01_843,02_180,Adult,Adult,F,Non-lactating,3,Ol Pejeta Dam,G
+01_313_2,28-Jul-06,01_313,01_313,Adult,Adult,M,Stallion,4,Ol Pejeta Dam,G
+01_313_2,28-Jul-06,01_313,01_314,Adult,Adult,F,Lactating,4,Ol Pejeta Dam,G
+01_313_2,28-Jul-06,01_313,05_327,3-6,Juvenile,M,Foal,4,Ol Pejeta Dam,G
+01_313_2,28-Jul-06,01_313,04_155,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_347_2,29-Jul-06,01_347,01_347,Adult,Adult,M,Stallion,7,unknown,G
+01_347_2,29-Jul-06,01_347,01_374,Adult,Adult,F,Lactating,7,unknown,G
+01_347_2,29-Jul-06,01_347,03_058,Adult,Adult,F,Non-lactating,7,unknown,G
+01_347_2,29-Jul-06,01_347,01_507,Adult,Adult,F,Non-lactating,7,unknown,G
+01_347_2,29-Jul-06,01_347,01_140,Adult,Adult,F,Non-lactating,7,unknown,G
+01_347_2,29-Jul-06,01_347,02_1140,Adult,Adult,F,Lactating,7,unknown,G
+01_347_2,29-Jul-06,01_347,05_124,3-6,Juvenile,F,Foal,7,unknown,G
+01_560_2,30-Jul-06,01_560,01_560,Adult,Adult,M,Stallion,4,Ol Pejeta Dam,G
+01_560_2,30-Jul-06,01_560,01_049,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_560_2,30-Jul-06,01_560,01_067,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_560_2,30-Jul-06,01_560,04_115,2/3yo,Juvenile,F,Foal,4,Ol Pejeta Dam,G
+01_843_3,31-Jul-06,01_843,01_843,Adult,Adult,M,Stallion,3,Serat trough,G
+01_843_3,31-Jul-06,01_843,02_084,Adult,Adult,F,Non-lactating,3,Serat trough,G
+01_843_3,31-Jul-06,01_843,02_180,Adult,Adult,F,Non-lactating,3,Serat trough,G
+01_843_4,1-Aug-06,01_843,01_843,Adult,Adult,M,Stallion,3,Ol Pejeta Dam,G
+01_843_4,1-Aug-06,01_843,02_084,Adult,Adult,F,Non-lactating,3,Ol Pejeta Dam,G
+01_843_4,1-Aug-06,01_843,02_180,Adult,Adult,F,Non-lactating,3,Ol Pejeta Dam,G
+01_008_4,2-Aug-06,01_008,01_008,Adult,Adult,M,Stallion,6,Ol Pejeta Dam,G
+01_008_4,2-Aug-06,01_008,01_011,Adult,Adult,F,Non-lactating,6,Ol Pejeta Dam,G
+01_008_4,2-Aug-06,01_008,01_323,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_008_4,2-Aug-06,01_008,05_037,6-12,Juvenile,M,Foal,6,Ol Pejeta Dam,G
+01_008_4,2-Aug-06,01_008,01_006,Adult,Adult,F,Lactating,6,Ol Pejeta Dam,G
+01_008_4,2-Aug-06,01_008,05_331,3-6,Juvenile,F,Foal,6,Ol Pejeta Dam,G
+01_560_3,3-Aug-06,01_560,01_560,Adult,Adult,M,Stallion,4,Ol Pejeta Dam,G
+01_560_3,3-Aug-06,01_560,01_049,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_560_3,3-Aug-06,01_560,01_067,Adult,Adult,F,Non-lactating,4,Ol Pejeta Dam,G
+01_560_3,3-Aug-06,01_560,04_115,2-3yo,Juvenile,F,Yearling,4,Ol Pejeta Dam,G
+01_347_3,3-Aug-06,01_347,01_347,Adult,Adult,M,Stallion,7,Grants Plain trough,G
+01_347_3,3-Aug-06,01_347,01_374,Adult,Adult,F,Lactating,7,Grants Plain trough,G
+01_347_3,3-Aug-06,01_347,03_058,Adult,Adult,F,Non-lactating,7,Grants Plain trough,G
+01_347_3,3-Aug-06,01_347,01_507,Adult,Adult,F,Non-lactating,7,Grants Plain trough,G
+01_347_3,3-Aug-06,01_347,01_140,Adult,Adult,F,Non-lactating,7,Grants Plain trough,G
+01_347_3,3-Aug-06,01_347,02_1140,Adult,Adult,F,Lactating,7,Grants Plain trough,G
+01_347_3,3-Aug-06,01_347,05_124,3-6,Juvenile,F,Foal,7,Grants Plain trough,G
+01_053_3,6-Aug-06,01_053,01_053,Adult,Adult,M,Stallion,4,Kongoni Donga Saltlick/Grants plain,G
+01_053_3,6-Aug-06,01_053,01_400,Adult,Adult,F,Non-lactating,4,Kongoni Donga Saltlick/Grants plain,G
+01_053_3,6-Aug-06,01_053,01_721,Adult,Adult,F,Lactating,4,Kongoni Donga Saltlick/Grants plain,G
+01_053_3,6-Aug-06,01_053,06_400,0-3,Juvenile,M,Foal,4,Kongoni Donga Saltlick/Grants plain,G
+01_590_3,7-Aug-06,01_590,01_590,Adult,Adult,M,Stallion,6,Kongoni Donga Saltlick/Grants plain,G
+01_590_3,7-Aug-06,01_590,01_202,Adult,Adult,F,Non-lactating,6,Kongoni Donga Saltlick/Grants plain,G
+01_590_3,7-Aug-06,01_590,01_651,Adult,Adult,F,Non-lactating,6,Kongoni Donga Saltlick/Grants plain,G
+01_590_3,7-Aug-06,01_590,01_752,Adult,Adult,F,Non-lactating,6,Kongoni Donga Saltlick/Grants plain,G
+01_590_3,7-Aug-06,01_590,01_700,Adult,Adult,F,Non-lactating,6,Kongoni Donga Saltlick/Grants plain,G
+01_590_3,7-Aug-06,01_590,01_373,Adult,Adult,F,Non-lactating,6,Kongoni Donga Saltlick/Grants plain,G
+01_313_3,7-Aug-06,01_313,01_313,Adult,Adult,M,Stallion,4,Zebra Plain trough,G
+01_313_3,7-Aug-06,01_313,01_314,Adult,Adult,F,Lactating,4,Zebra Plain trough,G
+01_313_3,7-Aug-06,01_313,05_327,3-6,Juvenile,M,Foal,4,Zebra Plain trough,G
+01_313_3,7-Aug-06,01_313,04_155,Adult,Adult,F,Non-lactating,4,Zebra Plain trough,G
+01_596_3,9-Aug-06,01_596,01_596,Adult,Adult,M,Stallion,5,Zebra Plain trough,G
+01_596_3,9-Aug-06,01_596,01_758,Adult,Adult,F,Non-lactating,5,Zebra Plain trough,G
+01_596_3,9-Aug-06,01_596,02_1009,Adult,Adult,F,Non-lactating,5,Zebra Plain trough,G
+01_596_3,9-Aug-06,01_596,01_516,Adult,Adult,F,Non-lactating,5,Zebra Plain trough,G
+01_596_3,9-Aug-06,01_596,01_665,Adult,Adult,F,Non-lactating,5,Zebra Plain trough,G
+01_313_4,10-Aug-06,01_313,01_313,Adult,Adult,M,Stallion,4,Zebra Plain trough,G
+01_313_4,10-Aug-06,01_313,01_314,Adult,Adult,F,Lactating,4,Zebra Plain trough,G
+01_313_4,10-Aug-06,01_313,05_327,3-6,Juvenile,M,Foal,4,Zebra Plain trough,G
+01_313_4,10-Aug-06,01_313,04_155,Adult,Adult,F,Non-lactating,4,Zebra Plain trough,G
